@@ -9,7 +9,7 @@ public class Main {
         } else {
             bonus = 0;
         }
-        System.out.println(account + refill + bonus);
+        System.out.println(("На счету ") + (account + refill + bonus));
 
     }
 }
